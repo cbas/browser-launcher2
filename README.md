@@ -1,5 +1,7 @@
 # browser-launcher2
 
+[![Join the chat at https://gitter.im/cbas/browser-launcher2](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/cbas/browser-launcher2?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Get it on npm](https://nodei.co/npm/browser-launcher2.png?compact=true)](https://www.npmjs.org/package/browser-launcher2)
 
 Detect the browser versions available on your system and launch them in an
